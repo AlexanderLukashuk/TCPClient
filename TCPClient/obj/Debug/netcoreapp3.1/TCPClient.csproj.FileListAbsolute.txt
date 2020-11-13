@@ -1,0 +1,12 @@
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.exe
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.deps.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.dev.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.dll
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfoInputs.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfo.cs
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.dll
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.genruntimeconfig.cache
